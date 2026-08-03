@@ -29,8 +29,8 @@ image = true
 [directoryUI.grid.submit]
 show = true
 first = false
-title = "Submit a template"
-description = "Submit a template to show off a good project to other people."
+title = "Submit Your AI Tool"
+description = "Get your AI tool listed and reach thousands of users searching for AI solutions."
 hideable = true
 
 [directoryUI.featured]

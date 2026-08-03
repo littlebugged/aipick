@@ -35,7 +35,7 @@ const headerSchema = z.object({
   }),
   actionButton: z.object({
     text: z.string(),
-    href: z.string().url(),
+    href: z.string(),
   }),
 });
 

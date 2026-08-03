@@ -95,7 +95,7 @@ description = "AI research assistants, paper summarizers, and knowledge tools."
 [header.banner]
 show = true
 text = "Submit your AI tool and reach thousands of users"
-link = "https://tally.so"
+link = "https://aipick.de5.net/submit"
 brandText = "New: AI Tools Hub"
 
 [header.navbar]
@@ -111,7 +111,7 @@ href = "/submit"
 
 [header.actionButton]
 text = "Submit a Tool"
-href = "https://aipick.de5.net/submit"
+href = "/submit"
 
 [footer]
 description = "AIPick — Handpicked AI tools for every task."
