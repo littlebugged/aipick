@@ -478,5 +478,14 @@
     "tags": ["coding", "design"],
     "description": "Draw a UI wireframe on an infinite canvas and AI turns it into working code. Sketch your ideas and get functional HTML/React components.",
     "link": "https://makereal.tldraw.com"
+  },
+  {
+    "id": "ximage",
+    "title": "XImage",
+    "image": "",
+    "featured": true,
+    "tags": ["image", "design", "productivity"],
+    "description": "Free online image toolkit running 100% in your browser. Compress, convert, resize, crop, watermark, and AI background removal — no uploads, fully private.",
+    "link": "https://image-x.de5.net"
   }
 ]
