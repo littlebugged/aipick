@@ -1,0 +1,48 @@
+---
+---
+
+<div class="ad-banner w-full flex justify-center my-8">
+  <div class="ad-container max-w-[728px] w-full flex flex-col items-center">
+    <div id="adsterra-container"></div>
+    <p class="text-[10px] text-gray-400 text-center mt-1">Advertisement</p>
+  </div>
+</div>
+
+<script>
+  function loadAd() {
+    const container = document.getElementById('adsterra-container');
+    if (!container) return;
+
+    const atOptions = {
+      'key': '8167917815b7f47c2495fa9ef1b2253a',
+      'format': 'iframe',
+      'height': 90,
+      'width': 728,
+      'params': {}
+    };
+
+    (window as any).atOptions = atOptions;
+
+    const script = document.createElement('script');
+    script.src = 'https://www.highperformanceformat.com/8167917815b7f47c2495fa9ef1b2253a/invoke.js';
+    script.async = true;
+    container.appendChild(script);
+  }
+
+  if (document.readyState === 'complete') {
+    loadAd();
+  } else {
+    window.addEventListener('load', loadAd);
+  }
+</script>
+
+<style>
+  .ad-banner {
+    min-height: 90px;
+  }
+  @media (max-width: 768px) {
+    .ad-banner {
+      min-height: 50px;
+    }
+  }
+</style>
