@@ -1,0 +1,289 @@
+[
+  {
+    "id": "chatgpt",
+    "title": "ChatGPT",
+    "image": "",
+    "featured": true,
+    "tags": ["chatbot", "writing", "coding"],
+    "description": "OpenAI's powerful conversational AI assistant for writing, analysis, coding, and creative tasks. Supports GPT-4o and real-time voice.",
+    "link": "https://chat.openai.com"
+  },
+  {
+    "id": "claude",
+    "title": "Claude",
+    "image": "",
+    "featured": true,
+    "tags": ["chatbot", "writing", "coding"],
+    "description": "Anthropic's AI assistant known for nuanced understanding, long-context analysis, and safe, helpful responses.",
+    "link": "https://claude.ai"
+  },
+  {
+    "id": "midjourney",
+    "title": "Midjourney",
+    "image": "",
+    "featured": true,
+    "tags": ["image", "design"],
+    "description": "Leading AI image generation tool that creates stunning, artistic images from text descriptions.",
+    "link": "https://midjourney.com"
+  },
+  {
+    "id": "cursor",
+    "title": "Cursor",
+    "image": "",
+    "featured": true,
+    "tags": ["coding", "productivity"],
+    "description": "AI-first code editor built on VS Code. Write, edit, and debug code with an integrated AI assistant.",
+    "link": "https://cursor.com"
+  },
+  {
+    "id": "perplexity",
+    "title": "Perplexity AI",
+    "image": "",
+    "featured": true,
+    "tags": ["research", "chatbot"],
+    "description": "AI-powered search engine that provides cited, accurate answers by searching the web in real-time.",
+    "link": "https://perplexity.ai"
+  },
+  {
+    "id": "dall-e",
+    "title": "DALL-E 3",
+    "image": "",
+    "tags": ["image", "design"],
+    "description": "OpenAI's image generation model integrated into ChatGPT. Create detailed images from natural language prompts.",
+    "link": "https://openai.com/dall-e-3"
+  },
+  {
+    "id": "stable-diffusion",
+    "title": "Stable Diffusion",
+    "image": "",
+    "tags": ["image", "design"],
+    "description": "Open-source AI image generation model. Run locally or use hosted services for high-quality image creation.",
+    "link": "https://stability.ai"
+  },
+  {
+    "id": "github-copilot",
+    "title": "GitHub Copilot",
+    "image": "",
+    "tags": ["coding", "productivity"],
+    "description": "AI pair programmer that suggests code completions, entire functions, and helps debug in your IDE.",
+    "link": "https://github.com/features/copilot"
+  },
+  {
+    "id": "jasper",
+    "title": "Jasper",
+    "image": "",
+    "tags": ["writing", "marketing"],
+    "description": "AI marketing copilot for creating on-brand content across ads, emails, blogs, and social media.",
+    "link": "https://jasper.ai"
+  },
+  {
+    "id": "copy-ai",
+    "title": "Copy.ai",
+    "image": "",
+    "tags": ["writing", "marketing"],
+    "description": "AI-powered copywriting tool for generating marketing copy, blog posts, social media content, and emails.",
+    "link": "https://copy.ai"
+  },
+  {
+    "id": "runway",
+    "title": "Runway",
+    "image": "",
+    "featured": true,
+    "tags": ["video", "image"],
+    "description": "AI-powered creative suite for video generation, editing, and visual effects. Create videos from text or images.",
+    "link": "https://runwayml.com"
+  },
+  {
+    "id": "elevenlabs",
+    "title": "ElevenLabs",
+    "image": "",
+    "tags": ["audio"],
+    "description": "AI voice generation and cloning platform. Create realistic voiceovers, dubbing, and text-to-speech in any voice.",
+    "link": "https://elevenlabs.io"
+  },
+  {
+    "id": "notion-ai",
+    "title": "Notion AI",
+    "image": "",
+    "tags": ["writing", "productivity"],
+    "description": "AI assistant built into Notion for summarizing, writing, brainstorming, and organizing your workspace.",
+    "link": "https://notion.so/product/ai"
+  },
+  {
+    "id": "grammarly",
+    "title": "Grammarly",
+    "image": "",
+    "tags": ["writing", "productivity"],
+    "description": "AI writing assistant that checks grammar, tone, clarity, and provides real-time writing suggestions.",
+    "link": "https://grammarly.com"
+  },
+  {
+    "id": "canva-ai",
+    "title": "Canva AI",
+    "image": "",
+    "tags": ["design", "image"],
+    "description": "AI-powered design features in Canva including Magic Design, text-to-image, background removal, and more.",
+    "link": "https://canva.com/ai"
+  },
+  {
+    "id": "synthesia",
+    "title": "Synthesia",
+    "image": "",
+    "tags": ["video"],
+    "description": "Create AI-generated videos with realistic avatars. Turn text into professional videos in 120+ languages.",
+    "link": "https://synthesia.io"
+  },
+  {
+    "id": "descript",
+    "title": "Descript",
+    "image": "",
+    "tags": ["video", "audio"],
+    "description": "AI-powered video and podcast editor. Edit media by editing text, with automatic transcription and filler word removal.",
+    "link": "https://descript.com"
+  },
+  {
+    "id": "otter-ai",
+    "title": "Otter.ai",
+    "image": "",
+    "tags": ["audio", "productivity"],
+    "description": "AI meeting assistant that records, transcribes, and summarizes meetings with automatic action items.",
+    "link": "https://otter.ai"
+  },
+  {
+    "id": "suno",
+    "title": "Suno",
+    "image": "",
+    "tags": ["audio"],
+    "description": "AI music generation tool. Create full songs with vocals, instrumentals, and lyrics from text prompts.",
+    "link": "https://suno.com"
+  },
+  {
+    "id": "gamma",
+    "title": "Gamma",
+    "image": "",
+    "tags": ["design", "productivity"],
+    "description": "AI-powered presentation and document creator. Generate beautiful slides, docs, and webpages from prompts.",
+    "link": "https://gamma.app"
+  },
+  {
+    "id": "writesonic",
+    "title": "Writesonic",
+    "image": "",
+    "tags": ["writing", "marketing"],
+    "description": "AI writing platform for SEO-optimized blog posts, ads, product descriptions, and landing pages.",
+    "link": "https://writesonic.com"
+  },
+  {
+    "id": "gemini",
+    "title": "Google Gemini",
+    "image": "",
+    "featured": true,
+    "tags": ["chatbot", "research", "coding"],
+    "description": "Google's multimodal AI assistant. Analyze images, generate code, search the web, and creative tasks.",
+    "link": "https://gemini.google.com"
+  },
+  {
+    "id": "v0",
+    "title": "v0 by Vercel",
+    "image": "",
+    "tags": ["coding", "design"],
+    "description": "AI-powered UI generation tool. Describe a component and get production-ready React/Tailwind code.",
+    "link": "https://v0.dev"
+  },
+  {
+    "id": "replit-ai",
+    "title": "Replit AI",
+    "image": "",
+    "tags": ["coding"],
+    "description": "AI-powered cloud IDE that helps you build, deploy, and ship software faster with AI code generation.",
+    "link": "https://replit.com"
+  },
+  {
+    "id": "surfer-seo",
+    "title": "Surfer SEO",
+    "image": "",
+    "tags": ["marketing", "writing"],
+    "description": "AI-powered SEO tool for content optimization. Get real-time suggestions to rank higher on Google.",
+    "link": "https://surferseo.com"
+  },
+  {
+    "id": "heygen",
+    "title": "HeyGen",
+    "image": "",
+    "tags": ["video"],
+    "description": "AI video creation platform with customizable avatars. Create talking-head videos for marketing and training.",
+    "link": "https://heygen.com"
+  },
+  {
+    "id": "remove-bg",
+    "title": "Remove.bg",
+    "image": "",
+    "tags": ["image", "design"],
+    "description": "AI-powered background removal tool. Remove image backgrounds instantly with one click.",
+    "link": "https://remove.bg"
+  },
+  {
+    "id": "ideogram",
+    "title": "Ideogram",
+    "image": "",
+    "tags": ["image", "design"],
+    "description": "AI image generator with excellent text rendering. Create logos, posters, and images with readable text.",
+    "link": "https://ideogram.ai"
+  },
+  {
+    "id": "deepl",
+    "title": "DeepL",
+    "image": "",
+    "tags": ["writing", "productivity"],
+    "description": "AI-powered translation tool known for natural, human-quality translations in 30+ languages.",
+    "link": "https://deepl.com"
+  },
+  {
+    "id": "fireflies",
+    "title": "Fireflies.ai",
+    "image": "",
+    "tags": ["audio", "productivity"],
+    "description": "AI meeting assistant that auto-joins calls, transcribes conversations, and generates summaries and action items.",
+    "link": "https://fireflies.ai"
+  },
+  {
+    "id": "leonardo-ai",
+    "title": "Leonardo.ai",
+    "image": "",
+    "tags": ["image", "design"],
+    "description": "AI image generation platform with fine-tuned models for game assets, concept art, and creative visuals.",
+    "link": "https://leonardo.ai"
+  },
+  {
+    "id": "photoroom",
+    "title": "PhotoRoom",
+    "image": "",
+    "tags": ["image", "marketing"],
+    "description": "AI photo editing app for product photography. Remove backgrounds, add studio lighting, and create pro visuals.",
+    "link": "https://photoroom.com"
+  },
+  {
+    "id": "tome",
+    "title": "Tome",
+    "image": "",
+    "tags": ["design", "productivity"],
+    "description": "AI-native storytelling and presentation tool. Generate compelling narratives with AI-assisted layouts.",
+    "link": "https://tome.app"
+  },
+  {
+    "id": "zapier-ai",
+    "title": "Zapier AI",
+    "image": "",
+    "tags": ["productivity"],
+    "description": "AI-powered automation platform. Connect 6,000+ apps and build AI-enhanced workflows without code.",
+    "link": "https://zapier.com/ai"
+  },
+  {
+    "id": "murf",
+    "title": "Murf AI",
+    "image": "",
+    "tags": ["audio"],
+    "description": "AI voice generator for creating studio-quality voiceovers for videos, presentations, and podcasts.",
+    "link": "https://murf.ai"
+  }
+]

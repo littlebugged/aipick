@@ -1,0 +1,120 @@
+# available directory themes:
+# spearmint, peppermint, hemingway, brookmint
+theme = 'peppermint'
+
+[general]
+title = "AIPick"
+logo = ""
+iconLogo = "tabler:brain"
+
+[general.seo]
+name = "AIPick"
+description = "AIPick — Handpicked AI tools for every task. Discover the best AI apps for writing, coding, design, video, marketing, and more."
+url = "https://aipick.de5.net"
+
+[directoryData.source]
+name = "json"
+linksOutbound = false
+
+[directoryData.tagPages]
+title = "Best AI {0} Tools"
+
+[directoryData.search]
+placeholder = "Search {0} AI tools — find the perfect AI for your task"
+
+[[directoryData.tags]]
+key = "writing"
+name = "Writing"
+color = "blue"
+emoji = "✍️"
+description = "AI writing assistants for content creation, copywriting, blog posts, and more."
+
+[[directoryData.tags]]
+key = "coding"
+name = "Coding"
+color = "green"
+emoji = "💻"
+description = "AI code assistants, code generation, debugging, and development tools."
+
+[[directoryData.tags]]
+key = "image"
+name = "Image"
+color = "purple"
+emoji = "🎨"
+description = "AI image generators, editors, and enhancement tools."
+
+[[directoryData.tags]]
+key = "video"
+name = "Video"
+color = "red"
+emoji = "🎬"
+description = "AI video creation, editing, and generation tools."
+
+[[directoryData.tags]]
+key = "chatbot"
+name = "Chatbot"
+color = "blue"
+emoji = "🤖"
+description = "AI chatbots and conversational assistants for various tasks."
+
+[[directoryData.tags]]
+key = "productivity"
+name = "Productivity"
+color = "green"
+emoji = "⚡"
+description = "AI tools to boost your workflow, automate tasks, and save time."
+
+[[directoryData.tags]]
+key = "marketing"
+name = "Marketing"
+color = "purple"
+emoji = "📈"
+description = "AI-powered marketing, SEO, social media, and advertising tools."
+
+[[directoryData.tags]]
+key = "audio"
+name = "Audio"
+color = "red"
+emoji = "🎵"
+description = "AI music generation, voice cloning, transcription, and audio tools."
+
+[[directoryData.tags]]
+key = "design"
+name = "Design"
+color = "purple"
+emoji = "🖌️"
+description = "AI design tools for UI/UX, logos, presentations, and graphics."
+
+[[directoryData.tags]]
+key = "research"
+name = "Research"
+color = "blue"
+emoji = "🔬"
+description = "AI research assistants, paper summarizers, and knowledge tools."
+
+[header.banner]
+show = true
+text = "Submit your AI tool and reach thousands of users"
+link = "https://tally.so"
+brandText = "New: AI Tools Hub"
+
+[header.navbar]
+colorModeSelector = true
+
+[[header.navbar.links]]
+name = "Blog"
+href = "/blog"
+
+[[header.navbar.links]]
+name = "Submit Tool"
+href = "/submit"
+
+[header.actionButton]
+text = "Submit a Tool"
+href = "https://aipick.de5.net/submit"
+
+[footer]
+description = "AIPick — Handpicked AI tools for every task."
+
+[footer.socials.x]
+link = "https://x.com/"
