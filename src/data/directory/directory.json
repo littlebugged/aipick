@@ -285,5 +285,198 @@
     "tags": ["audio"],
     "description": "AI voice generator for creating studio-quality voiceovers for videos, presentations, and podcasts.",
     "link": "https://murf.ai"
+  },
+  {
+    "id": "microsoft-copilot",
+    "title": "Microsoft Copilot",
+    "image": "",
+    "featured": true,
+    "tags": ["chatbot", "writing", "productivity"],
+    "description": "AI assistant integrated into Microsoft 365. Drafts emails, analyzes Excel data, creates PowerPoint slides, and summarizes Teams meetings.",
+    "link": "https://copilot.microsoft.com"
+  },
+  {
+    "id": "grok",
+    "title": "Grok",
+    "image": "",
+    "tags": ["chatbot", "research"],
+    "description": "xAI's conversational AI with real-time access to X/Twitter data. Known for witty responses and up-to-the-minute information.",
+    "link": "https://grok.x.ai"
+  },
+  {
+    "id": "notebooklm",
+    "title": "NotebookLM",
+    "image": "",
+    "tags": ["research", "productivity"],
+    "description": "Google's AI research assistant that synthesizes your uploaded documents into summaries, FAQs, and even podcast-style audio overviews.",
+    "link": "https://notebooklm.google.com"
+  },
+  {
+    "id": "pika",
+    "title": "Pika",
+    "image": "",
+    "tags": ["video"],
+    "description": "AI video generator built for social-first content. Create lip-synced clips, apply creative effects, and produce short videos from text or images.",
+    "link": "https://pika.art"
+  },
+  {
+    "id": "kling",
+    "title": "Kling AI",
+    "image": "",
+    "tags": ["video"],
+    "description": "AI video generation tool excelling at high-motion scenes and long clips up to 2 minutes. Features native audio with lip-sync across multiple languages.",
+    "link": "https://klingai.com"
+  },
+  {
+    "id": "luma",
+    "title": "Luma Dream Machine",
+    "image": "",
+    "tags": ["video", "image"],
+    "description": "Fast AI video generator with keyframe workflow. Define start and end images, and Luma animates the transition with cinematic quality.",
+    "link": "https://lumalabs.ai"
+  },
+  {
+    "id": "napkin-ai",
+    "title": "Napkin AI",
+    "image": "",
+    "tags": ["design", "productivity"],
+    "description": "Turn text into visual diagrams, frameworks, and infographics instantly. Perfect for presentations, docs, and social media visuals.",
+    "link": "https://napkin.ai"
+  },
+  {
+    "id": "n8n",
+    "title": "n8n",
+    "image": "",
+    "tags": ["productivity", "coding"],
+    "description": "Open-source workflow automation platform. Build AI agents and connect 400+ apps with a visual node-based editor. Self-hostable for full data control.",
+    "link": "https://n8n.io"
+  },
+  {
+    "id": "reclaim-ai",
+    "title": "Reclaim.ai",
+    "image": "",
+    "tags": ["productivity"],
+    "description": "AI-powered smart calendar that auto-schedules tasks, habits, breaks, and meetings. Optimizes your week based on priorities and deadlines.",
+    "link": "https://reclaim.ai"
+  },
+  {
+    "id": "capcut",
+    "title": "CapCut",
+    "image": "",
+    "tags": ["video"],
+    "description": "Free AI-powered video editor with auto-captions, background removal, text-to-speech, and smart templates for social media content.",
+    "link": "https://capcut.com"
+  },
+  {
+    "id": "kiro",
+    "title": "Kiro",
+    "image": "",
+    "tags": ["coding"],
+    "description": "AWS's AI-powered IDE that turns specs into code. Supports agentic development with Claude models for building and deploying cloud applications.",
+    "link": "https://kiro.dev"
+  },
+  {
+    "id": "windsurf",
+    "title": "Windsurf",
+    "image": "",
+    "tags": ["coding"],
+    "description": "AI code editor (formerly Codeium) with agentic flows. Understands entire codebases and executes multi-step coding tasks autonomously.",
+    "link": "https://windsurf.com"
+  },
+  {
+    "id": "bolt",
+    "title": "Bolt.new",
+    "image": "",
+    "tags": ["coding", "design"],
+    "description": "AI full-stack app builder in the browser. Describe your app idea and get a deployed, working web application in minutes — no local setup needed.",
+    "link": "https://bolt.new"
+  },
+  {
+    "id": "lovable",
+    "title": "Lovable",
+    "image": "",
+    "tags": ["coding", "design"],
+    "description": "AI software engineer that builds production-ready web apps from natural language descriptions. Ships with auth, database, and deployment included.",
+    "link": "https://lovable.dev"
+  },
+  {
+    "id": "opus-clip",
+    "title": "Opus Clip",
+    "image": "",
+    "tags": ["video", "marketing"],
+    "description": "AI tool that repurposes long videos into viral short clips. Auto-detects engaging moments and adds captions for TikTok, Reels, and Shorts.",
+    "link": "https://opus.pro"
+  },
+  {
+    "id": "invideo-ai",
+    "title": "InVideo AI",
+    "image": "",
+    "tags": ["video", "marketing"],
+    "description": "Generate publish-ready videos from text prompts. Uses multiple AI models (Veo, Kling, Seedance) for stock footage, voiceover, and editing.",
+    "link": "https://invideo.io"
+  },
+  {
+    "id": "asana-ai",
+    "title": "Asana AI",
+    "image": "",
+    "tags": ["productivity"],
+    "description": "AI-enhanced project management that auto-generates tasks, summarizes project status, identifies blockers, and suggests next steps for teams.",
+    "link": "https://asana.com"
+  },
+  {
+    "id": "loom",
+    "title": "Loom",
+    "image": "",
+    "tags": ["video", "productivity"],
+    "description": "Async video communication tool with AI summaries, auto-chapters, and transcription. Record and share screen videos that replace meetings.",
+    "link": "https://loom.com"
+  },
+  {
+    "id": "seedance",
+    "title": "Seedance",
+    "image": "",
+    "tags": ["video", "audio"],
+    "description": "AI video generator with native audio synthesis and multi-shot storyboarding. Creates stylized clips with synchronized sound and lip-sync.",
+    "link": "https://seedance.ai"
+  },
+  {
+    "id": "glide",
+    "title": "Glide",
+    "image": "",
+    "tags": ["productivity", "coding"],
+    "description": "No-code platform for building custom AI-powered business apps. Connect data sources and deploy internal tools without writing code.",
+    "link": "https://glideapps.com"
+  },
+  {
+    "id": "granola",
+    "title": "Granola",
+    "image": "",
+    "tags": ["productivity", "audio"],
+    "description": "AI notepad for meetings that captures context from your screen and conversation, then generates structured notes with action items.",
+    "link": "https://granola.ai"
+  },
+  {
+    "id": "comet-browser",
+    "title": "Comet",
+    "image": "",
+    "tags": ["research", "productivity"],
+    "description": "AI-powered browser by Perplexity. Acts as a personal assistant that sees page content, drafts replies, automates tasks, and researches the web.",
+    "link": "https://comet.perplexity.ai"
+  },
+  {
+    "id": "veo",
+    "title": "Google Veo",
+    "image": "",
+    "tags": ["video"],
+    "description": "Google DeepMind's cinematic AI video generator. Creates high-quality clips up to 120 seconds with native audio at up to 4K resolution.",
+    "link": "https://deepmind.google/technologies/veo"
+  },
+  {
+    "id": "tldraw",
+    "title": "tldraw Make Real",
+    "image": "",
+    "tags": ["coding", "design"],
+    "description": "Draw a UI wireframe on an infinite canvas and AI turns it into working code. Sketch your ideas and get functional HTML/React components.",
+    "link": "https://makereal.tldraw.com"
   }
 ]
