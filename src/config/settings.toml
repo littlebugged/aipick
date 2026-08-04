@@ -106,6 +106,10 @@ name = "Blog"
 href = "/blog"
 
 [[header.navbar.links]]
+name = "About"
+href = "/about"
+
+[[header.navbar.links]]
 name = "Submit Tool"
 href = "/submit"
 

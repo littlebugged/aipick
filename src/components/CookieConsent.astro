@@ -1,0 +1,62 @@
+---
+---
+
+<div
+  id="cookie-consent"
+  class="fixed bottom-0 left-0 right-0 z-50 hidden"
+  role="dialog"
+  aria-label="Cookie consent"
+>
+  <div class="mx-auto max-w-7xl px-4 py-4 sm:px-6">
+    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 rounded-lg bg-gray-900 dark:bg-gray-800 p-4 shadow-lg border border-gray-700">
+      <p class="text-sm text-gray-200 text-center sm:text-left">
+        We use cookies to enhance your experience and display relevant ads. By continuing to browse, you agree to our
+        <a href="/legal/privacy-policy" class="underline text-blue-400 hover:text-blue-300">Privacy Policy</a>.
+      </p>
+      <div class="flex gap-3 shrink-0">
+        <button
+          id="cookie-reject"
+          class="px-4 py-2 text-sm text-gray-300 hover:text-white border border-gray-600 rounded-md transition-colors"
+        >
+          Reject
+        </button>
+        <button
+          id="cookie-accept"
+          class="px-4 py-2 text-sm text-white bg-blue-600 hover:bg-blue-700 rounded-md transition-colors"
+        >
+          Accept
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const COOKIE_KEY = 'aipick_cookie_consent';
+
+  function initCookieConsent() {
+    const banner = document.getElementById('cookie-consent');
+    if (!banner) return;
+
+    const consent = localStorage.getItem(COOKIE_KEY);
+    if (consent) return;
+
+    banner.classList.remove('hidden');
+
+    document.getElementById('cookie-accept')?.addEventListener('click', () => {
+      localStorage.setItem(COOKIE_KEY, 'accepted');
+      banner.classList.add('hidden');
+    });
+
+    document.getElementById('cookie-reject')?.addEventListener('click', () => {
+      localStorage.setItem(COOKIE_KEY, 'rejected');
+      banner.classList.add('hidden');
+    });
+  }
+
+  if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    initCookieConsent();
+  } else {
+    document.addEventListener('DOMContentLoaded', initCookieConsent);
+  }
+</script>
