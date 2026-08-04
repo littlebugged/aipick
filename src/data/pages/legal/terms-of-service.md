@@ -74,4 +74,4 @@ These Terms are governed by applicable international law. Any disputes shall be 
 
 ## Contact
 
-For questions about these Terms, contact us at [submit@aipick.de5.net](mailto:submit@aipick.de5.net).
+For questions about these Terms, contact us at [feedback@aipick.de5.net](mailto:feedback@aipick.de5.net).

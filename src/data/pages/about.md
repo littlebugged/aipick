@@ -28,7 +28,7 @@ We offer:
 
 Have questions, feedback, or partnership inquiries?
 
-Email us at [submit@aipick.de5.net](mailto:submit@aipick.de5.net)
+Email us at [feedback@aipick.de5.net](mailto:feedback@aipick.de5.net)
 
 ## Links
 

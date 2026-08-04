@@ -10,7 +10,9 @@ We'd love to hear from you. Whether you have a question, feedback, or a business
 
 ## Email
 
-📧 **General inquiries & tool submissions:** [submit@aipick.de5.net](mailto:submit@aipick.de5.net)
+📧 **General inquiries & feedback:** [feedback@aipick.de5.net](mailto:feedback@aipick.de5.net)
+
+📧 **Tool submissions:** [submit@aipick.de5.net](mailto:submit@aipick.de5.net)
 
 ## Common Reasons to Contact Us
 
