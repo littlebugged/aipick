@@ -47,6 +47,15 @@ const calculatedTitle = title || siteTitle;
     />
     <meta name="twitter:image" content={getOGImage(slug)} />
 
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NQCQ3JBWNX"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-NQCQ3JBWNX');
+    </script>
+
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3425124767136776" crossorigin="anonymous"></script>
 
