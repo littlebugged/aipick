@@ -487,5 +487,13 @@
     "tags": ["image", "design", "productivity"],
     "description": "Free online image toolkit running 100% in your browser. Compress, convert, resize, crop, watermark, and AI background removal — no uploads, fully private.",
     "link": "https://image-x.de5.net"
+  },
+  {
+    "id": "ideahunter",
+    "title": "IdeaHunter",
+    "image": "",
+    "tags": ["research", "productivity", "marketing"],
+    "description": "Demand-backed app and micro-SaaS idea research for solo founders using public market signals, buyer pain, MVP scope, and monetization paths.",
+    "link": "https://ideahunter.today"
   }
 ]
