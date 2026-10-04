@@ -487,5 +487,17 @@
     "tags": ["image", "design", "productivity"],
     "description": "Free online image toolkit running 100% in your browser. Compress, convert, resize, crop, watermark, and AI background removal — no uploads, fully private.",
     "link": "https://image-x.de5.net"
+  },
+  {
+    "id": "agent-qa",
+    "title": "Agent QA",
+    "image": "",
+    "featured": false,
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "description": "AI-driven YAML regression tests for web, Android and iOS apps, run through a CLI/local dashboard. Free software; configured model, browser or device services may incur costs.",
+    "link": "https://vostride.com/docs/agent-qa"
   }
 ]
